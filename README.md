@@ -1,2 +1,1 @@
-# PreCourse-Henrry
-Este un repositorio de prueba para el modulo 2 william andres montoya
+Esta es una prueba para push y saber como sincronizar con github
